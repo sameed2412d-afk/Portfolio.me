@@ -5,7 +5,7 @@ pure HTML, CSS, and JavaScript. No frameworks. No build tools.
 Deployable directly on GitHub Pages.
 
 🔗 Live Site
-https://sameed-fareed.github.io/sameed-fareed-portfolio
+https://sameed2412d-afk.github.io/Portfolio.me/
 
 🛠️ Built With
 - HTML5
